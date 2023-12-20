@@ -1,5 +1,5 @@
 # DOCMaster
-A python program that helps teachers apply standard formatting to word documents submitted by their students.
+A python program that helps teachers apply standard formatting to Word documents submitted by their students.
 
 # What it does
 DOCMaster can take multiple documents saved in the Microsoft Word format (.docx) and standardise the formatting so that they are easier to handle and mark. 
