@@ -1,10 +1,10 @@
 # DOCMaster
-A python script / EXE for helping teachers format word documents submitted by their students.
+A python program that helps teachers apply standard formatting to word documents submitted by their students.
 
 # What it does
-DOCMaster is a user-friendly program that helps you process multiple Microsoft Word documents (.docx) at once. 
+DOCMaster can take multiple documents saved in the Microsoft Word format (.docx) and standardise the formatting so that they are easier to handle and mark. 
 
-You can personalize each document by adding details such as the class code, subject, teacher's name, term, unit number, unit title, and assignment name. You can also choose to double space your documents, standardize the font, include the filename in the header, add page numbers, and create a merged PDF file for easy printing.
+You can personalize each document by adding details such as the class code, subject, teacher's name, term, unit number, unit title, and assignment name. You can also choose to double space your documents, specify the font, include the filename in the header, add page numbers, and create a merged PDF file for easy printing.
 
 Once you have selected the documents you want to process, just click a button and the program will do the rest. It will copy the header content from a template to each document, and modify formatting as per your chosen options.
 
@@ -13,7 +13,7 @@ Once you have selected the documents you want to process, just click a button an
 This program is useful for teachers, students, or anyone who needs to process a large number of .docx files. It can help you save time and create a standardized look for your documents.
 
 # Who made it
-Me - Adrian McPherson. I'm a teacher :)
+Me. I'm a teacher :)
 
 # Licence
 
